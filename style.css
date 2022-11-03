@@ -89,8 +89,8 @@ nav>a.logo {
   text-transform: uppercase;
 }
 
-main>section,
-main>article {
+.hero,
+.article {
   margin-bottom: 96px;
   box-shadow: 4px 4px 10px var(--gray);
   background-color: var(--white);
